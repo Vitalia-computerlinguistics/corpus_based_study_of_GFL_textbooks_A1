@@ -43,19 +43,26 @@ reference to existing research.
 
 # Corpora
 The Kansas Developmental Learner corpus: https://www.linguistik.huberlin.de/en/institut-en/professuren-en/korpuslinguistik/research/kandel
+
 Pfeffer-Korpus German colloquial languages: https://agd.ids-mannheim.de/PF--
 _extern.shtml
 
 # Textbooks transcripts:
 Akademie Deutsch A1+: Intensivlehrwerk Band 1. Transkriptionen. (2020). Hueber
-Verlag.
+Verlag
+
 Deutsch-Uni Online A1.1-A1.2: https://www.deutsch-uni.com/de/
-Linie 1 A1.1: Transkriptionen. Ernst Klett Verlag, Stuttgart.
+
+Linie 1 A1.1: Transkriptionen. Ernst Klett Verlag, Stuttgart
+
 Linie 1 A1.2: Transkriptionen. (2017). Ernst Klett Verlag, Stuttgart
 59
-Menschen A1: Intensivtrainer. Transkriptionen der Hörtexte. Hueber Verlag.
+
+Menschen A1: Intensivtrainer. Transkriptionen der Hörtexte. Hueber Verlag
+
 Netzwerk neu A1: Transkriptionen zum Kurs- und Übungsbuch. (2019). Ernst Klett
-Verlag, Stuttgart.
+Verlag, Stuttgart
+
 Starten wir! A1: Kursbuch. Transkriptionen. (2022). Hueber Verlag
 
 # This project consists of five main parts:
