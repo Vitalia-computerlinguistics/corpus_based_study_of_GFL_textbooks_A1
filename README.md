@@ -70,8 +70,13 @@ Starten wir! A1: Kursbuch. Transkriptionen. (2022). Hueber Verlag
 Preprocessing of data: files 1 to 5
 
 Analysis of linguistic features of three corpora: textbook transcripts (TB), native speaker corpus (NS), and learner corpus (LR): files 5–8
-Evaluation of the Stanza Dependency Parser in terms of verb dependents with obj, obl:agent, obl:arg, and obl tags. Automatically annotated data are compared with a manually annotated gold standard created in the INCEpTION tool: files 9–12
+
+Evaluation of the Stanza Dependency Parser in terms of verb dependents with obj, obl:agent, obl:arg, and obl tags
+
+Automatically annotated data are compared with a manually annotated gold standard created in the INCEpTION tool: files 9–12
+
 Analysis of linguistic features of the three corpora with a focus on verb use: files 13 to 14
+
 Analysis of verb distribution in Deutsch-Uni online learning materials: files 2, 15
 
 Project files:
